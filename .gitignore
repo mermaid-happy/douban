@@ -1,0 +1,10 @@
+.DS_Store
+node_modules/
+npm-debug.log
+build
+config
+src
+static
+.babelrc
+.editorconfig
+package.json
